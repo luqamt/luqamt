@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @luqamt
+- 👀 I’m interested in developing software.
+- 🌱 I’m currently learning Software Development at MCAST, Malta.
